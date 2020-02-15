@@ -1,0 +1,3 @@
+abLEFxdWWYR3c
+
+crypt($_POST["password"],'abzjobs';

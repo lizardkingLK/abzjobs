@@ -1,0 +1,11 @@
+{
+  "name": "abzjobs",
+  "version": "1.0.0",
+  "description": "abzjobs server manager",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SNDP",
+  "license": "ISC"
+}
